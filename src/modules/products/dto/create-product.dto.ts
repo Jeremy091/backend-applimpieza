@@ -1,0 +1,6 @@
+// src/modules/products/dto/create-product.dto.ts
+export class CreateProductDto {
+  name: string;
+  price: number;
+  category: string;
+}
